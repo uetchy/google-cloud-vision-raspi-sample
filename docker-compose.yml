@@ -3,4 +3,4 @@ app:
   volumes:
     - .:/app
   environment:
-    GOOGLE_APPLICATION_CREDENTIALS: 'deepaudio-457f8ea79fd4.json'
+    GOOGLE_APPLICATION_CREDENTIALS: 'gcp-credential.json'
