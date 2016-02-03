@@ -1,5 +1,6 @@
 gcp-credential.json
-*.jpg
+/samples
+target.jpg
 
 # Created by https://www.gitignore.io/api/pycharm
 
